@@ -4,6 +4,9 @@
 **Happiest Health Reimagining and Reforming Healthcare in India Summit 2026 (Bengaluru)**  
 *Proof-of-Concept (PoC) Challenge — Track: Chronic Condition Digital Twin (Type 2 Diabetes)*
 
+* **Live Deployed Application**: [GlucoTwin | Clinical Digital Twin (Streamlit Cloud)](https://gluco-twin.streamlit.app/)
+* **Demonstration Video**: [GlucoTwin Comprehensive Demo Video (Google Drive)](https://drive.google.com/file/d/170j2lHUn91Lq56DxBENEc6oDBabGSrWg/view?usp=sharing)
+
 ---
 
 ## Submission Checklist Compliance
@@ -140,6 +143,7 @@ This project is licensed under the **MIT License**. Full license terms are avail
 ---
 
 ## 12. Public Accessibility of Files and Links
+* **Live Deployed Web Application**: [GlucoTwin Streamlit Cloud Deployment](https://gluco-twin.streamlit.app/) (Instant cloud access with zero local setup required).
 * **Repository Visibility**: This repository is **100% public** and accessible without requiring credentials or additional permissions.
 * **Open Source**: All source code, data generators, models, and documentation are directly cloned and executable under the MIT License.
 * **Privacy Compliance**: Operates in a certified synthetic sandbox conforming to India's **Digital Personal Data Protection (DPDP) Act 2023** and global HIPAA guidelines, containing zero Protected Health Information (PHI).
