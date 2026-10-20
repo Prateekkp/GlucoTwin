@@ -15,3 +15,7 @@ This directory contains the presentation deck, system architecture diagram, and 
 3. **Demonstration Video**:
    - Access URL: [GlucoTwin Demonstration Video (Google Drive)](https://drive.google.com/file/d/170j2lHUn91Lq56DxBENEc6oDBabGSrWg/view?usp=sharing)
    - Scope: Comprehensive walk-through of the Clinical Digital Twin OS dashboard, 120-minute early warning forecasting, and interactive counterfactual what-if sandbox.
+
+4. **Live Deployed Web Application**:
+   - Access URL: [GlucoTwin | Clinical Digital Twin (Streamlit Cloud)](https://gluco-twin.streamlit.app/)
+   - Scope: Hosted production environment allowing interactive evaluation of all 5 clinical dashboard tabs without local setup.
