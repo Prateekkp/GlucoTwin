@@ -223,6 +223,7 @@ def render_landing_page(metrics: dict):
             **Happiest Health Summit 2026 Submission:**
             Track: Chronic Condition Digital Twin (Type 2 Diabetes)  
             Institution: K.R. Mangalam University  
+            Live Cloud App: [gluco-twin.streamlit.app](https://gluco-twin.streamlit.app/)  
             Codebase & Models: Licensed under the MIT Open Source License.
             """
         )
