@@ -20,7 +20,7 @@
 | **Healthcare Use Case** | Verified | [Section 5: Healthcare Use Case (Indian Cohorts)](#5-healthcare-use-case-indian-cohorts) |
 | **Technical Stack** | Verified | [Section 6: Technical Stack](#6-technical-stack) |
 | **AI/ML Model or Framework Details** | Verified | [Section 7: AI/ML Model and Framework Details](#7-aiml-model-and-framework-details) |
-| **15-20 minute Demo Video (Unlisted YouTube)** | Verified | [Section 8: Demonstration Video Link](#8-15-20-minute-demo-video-unlisted-youtube) |
+| **15-20 minute Demo Video (Google Drive)** | Verified | [Section 8: Demonstration Video Link (Google Drive)](#8-15-20-minute-demo-video-google-drive) |
 | **Open-source License Details** | Verified | [Section 9: Open-Source License Details](#9-open-source-license-details) |
 | **Architecture Diagram in PDF/PPT format** | Verified | [Section 10: Architecture Diagram (PDF/PPT)](#10-architecture-diagram-in-pdfppt-format) |
 | **Presentation in PDF/PPT format** | Verified | [Section 11: Presentation Deck (PDF/PPT)](#11-presentation-in-pdfppt-format-covering-project-details-and-outcomes) |
@@ -97,9 +97,9 @@ GlucoTwin specifically models the localized pathophysiological nuances of the **
 
 ---
 
-## 8. 15-20 Minute Demo Video (Unlisted YouTube / Drive)
-* **Demo Video Link**: [GlucoTwin Comprehensive Demonstration Video](https://drive.google.com/file/d/170j2lHUn91Lq56DxBENEc6oDBabGSrWg/view?usp=sharing)
-*(The full comprehensive walk-through demonstrating the prototype, clinical workflow, dual-stream data fusion architecture, and "What-If" simulator is accessible via the link above).*
+## 8. 15-20 Minute Demo Video (Google Drive)
+* **Demo Video Link**: [GlucoTwin Comprehensive Demonstration Video (Google Drive)](https://drive.google.com/file/d/170j2lHUn91Lq56DxBENEc6oDBabGSrWg/view?usp=sharing)
+*(The full comprehensive 15-20 minute walk-through demonstrating the prototype, clinical workflow, dual-stream data fusion architecture, and "What-If" simulator is accessible via the Google Drive link above).*
 
 ---
 
