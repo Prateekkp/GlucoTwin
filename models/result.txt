@@ -1,0 +1,7 @@
+GlucoTwin 2-hour forecast evaluation:
+  Train patients: 96
+  Test patients:  24
+  Model MAE:      11.44 mg/dL
+  Model RMSE:     15.16 mg/dL
+  Model R2:       0.8298
+  Baseline MAE:   19.05 mg/dL

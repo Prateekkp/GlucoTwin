@@ -1,0 +1,13 @@
+{
+  "horizon_minutes": 120,
+  "patients_total": 120,
+  "train_patients": 96,
+  "test_patients": 24,
+  "train_rows": 378939,
+  "test_rows": 94782,
+  "model_mae_mg_dl": 11.439,
+  "model_rmse_mg_dl": 15.162,
+  "model_r2": 0.8298,
+  "persistence_baseline_mae_mg_dl": 19.049,
+  "synthetic_data_only": true
+}
