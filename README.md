@@ -94,9 +94,9 @@ GlucoTwin specifically models the localized pathophysiological nuances of the **
 
 ---
 
-## 8. 15-20 Minute Demo Video (Unlisted YouTube)
-* **Demo Video Link**: [https://youtu.be/PLACEHOLDER_DEMO_VIDEO](https://youtu.be/PLACEHOLDER_DEMO_VIDEO)
-*(The full 15-20 minute comprehensive walk-through demonstrating the prototype, clinical workflow, data fusion architecture, and "What-If" simulator is uploaded as an unlisted YouTube video accessible via this link).*
+## 8. 15-20 Minute Demo Video (Unlisted YouTube / Drive)
+* **Demo Video Link**: [GlucoTwin Comprehensive Demonstration Video](https://drive.google.com/file/d/170j2lHUn91Lq56DxBENEc6oDBabGSrWg/view?usp=sharing)
+*(The full comprehensive walk-through demonstrating the prototype, clinical workflow, dual-stream data fusion architecture, and "What-If" simulator is accessible via the link above).*
 
 ---
 
@@ -106,8 +106,8 @@ This project is licensed under the **MIT License**. Full license terms are avail
 ---
 
 ## 10. Architecture Diagram in PDF/PPT Format
-* **PDF Format**: [`docs/Architecture_Diagram.pdf`](docs/Architecture_Diagram.pdf)
-* **Direct Repository Link**: [Architecture Diagram (PDF)](docs/Architecture_Diagram.pdf)
+* **PDF Format**: [`docs/Architecture-Diagram-GlucoTwin.pdf`](docs/Architecture-Diagram-GlucoTwin.pdf)
+* **Direct Repository Link**: [Architecture-Diagram-GlucoTwin.pdf](docs/Architecture-Diagram-GlucoTwin.pdf)
 * *Summary Pipeline*:
 ```
 [Stream 1: Static EHR] + [Stream 2: Dynamic Wearables]
@@ -125,8 +125,8 @@ This project is licensed under the **MIT License**. Full license terms are avail
 ---
 
 ## 11. Presentation in PDF/PPT Format Covering Project Details and Outcomes
-* **PDF Format**: [`docs/Presentation.pdf`](docs/Presentation.pdf)
-* **Direct Repository Link**: [Presentation Deck (PDF)](docs/Presentation.pdf)
+* **Presentation Format**: [`docs/GlucoTwin_Presentation.pptx`](docs/GlucoTwin_Presentation.pptx)
+* **Direct Repository Link**: [GlucoTwin_Presentation.pptx](docs/GlucoTwin_Presentation.pptx)
 * *Deck Structure*:
   1. Title, Team & Institutional Details (K.R. Mangalam University)
   2. The Crisis: Type 2 Diabetes & the Indian "Thin-Fat" Phenotype
@@ -174,9 +174,9 @@ GlucoTwin/
 │   ├── ehr.csv              # Synthetic EHR clinical profiles
 │   └── sensor_readings.csv  # 5-minute time-series wearable readings
 └── docs/
-    ├── README.md            # Docs folder guide
-    ├── Architecture_Diagram.pdf  # System architecture diagram
-    └── Presentation.pdf          # Final project pitch presentation
+    ├── README.md                          # Docs directory guide & resources
+    ├── Architecture-Diagram-GlucoTwin.pdf # System architecture diagram (PDF)
+    └── GlucoTwin_Presentation.pptx        # Project pitch presentation (PPTX)
 ```
 
 ---
